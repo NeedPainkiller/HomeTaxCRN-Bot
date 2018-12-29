@@ -1,0 +1,10 @@
+server:
+  port: 8081
+  address: localhost
+
+slackApi: https://slack.com/api
+slackBotToken: <paste your slack bot token>
+slackIncomingWebhookUrl: <paste your slack Incoming Webhook Url>
+
+---
+
